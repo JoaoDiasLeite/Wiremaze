@@ -1,1 +1,76 @@
-<mxfile host="app.diagrams.net" modified="2022-06-07T13:50:45.725Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 OPR/86.0.4363.70" version="16.2.2" etag="Mg22gnIzLNOtLBGouLee" type="github"><diagram id="WjlNTZho9K9yqoVGfzix">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-07-06T16:25:58.254Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.115 Safari/537.36 OPR/88.0.4412.65" etag="Vr2YXizV21tIzH_rL8co" version="19.0.2" type="github">
+  <diagram id="WjlNTZho9K9yqoVGfzix" name="Page-1">
+    <mxGraphModel dx="2021" dy="1124" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="52e9ZkvR3uRLUpQS5kAT-6" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="40" y="40" width="150" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="52e9ZkvR3uRLUpQS5kAT-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="52e9ZkvR3uRLUpQS5kAT-6">
+          <mxGeometry width="150" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="52e9ZkvR3uRLUpQS5kAT-3" value="&lt;b&gt;Class SMS&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="52e9ZkvR3uRLUpQS5kAT-6">
+          <mxGeometry width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="52e9ZkvR3uRLUpQS5kAT-5" value="&lt;ul&gt;&lt;li&gt;&lt;b&gt;int &lt;/b&gt;index&lt;/li&gt;&lt;li&gt;&lt;b&gt;string &lt;/b&gt;numero&lt;/li&gt;&lt;li&gt;&lt;b&gt;DateTime&lt;/b&gt; data&lt;/li&gt;&lt;li&gt;&lt;b&gt;string&lt;/b&gt; texto&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="52e9ZkvR3uRLUpQS5kAT-6">
+          <mxGeometry x="10" y="30" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="52e9ZkvR3uRLUpQS5kAT-11" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="40" y="760" width="240" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="52e9ZkvR3uRLUpQS5kAT-20" value="" style="group" vertex="1" connectable="0" parent="52e9ZkvR3uRLUpQS5kAT-11">
+          <mxGeometry width="240" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="52e9ZkvR3uRLUpQS5kAT-9" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="52e9ZkvR3uRLUpQS5kAT-20">
+          <mxGeometry width="240" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="52e9ZkvR3uRLUpQS5kAT-10" value="&lt;b&gt;GetDadosFromSMSExpress&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="52e9ZkvR3uRLUpQS5kAT-20">
+          <mxGeometry x="5" width="165" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="52e9ZkvR3uRLUpQS5kAT-15" value="&lt;ul&gt;&lt;li&gt;&lt;b&gt;string&lt;/b&gt;&amp;nbsp;sms_gateway_login&lt;/li&gt;&lt;li&gt;&lt;b&gt;string&lt;/b&gt;&amp;nbsp;sms_gateway_password&lt;/li&gt;&lt;li&gt;&lt;b&gt;string &lt;/b&gt;sms_gateway_service_id&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="52e9ZkvR3uRLUpQS5kAT-20">
+          <mxGeometry x="5" y="30" width="230" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="52e9ZkvR3uRLUpQS5kAT-12" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="600" y="760" width="240" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="52e9ZkvR3uRLUpQS5kAT-19" value="" style="group" vertex="1" connectable="0" parent="52e9ZkvR3uRLUpQS5kAT-12">
+          <mxGeometry width="240" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="52e9ZkvR3uRLUpQS5kAT-13" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="52e9ZkvR3uRLUpQS5kAT-19">
+          <mxGeometry width="240" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="52e9ZkvR3uRLUpQS5kAT-14" value="&lt;b&gt;GetDadosFromSMSPro&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="52e9ZkvR3uRLUpQS5kAT-19">
+          <mxGeometry x="5" width="135" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="52e9ZkvR3uRLUpQS5kAT-16" value="&lt;ul&gt;&lt;li&gt;&lt;b&gt;string&lt;/b&gt; sms_gateway_tenant&lt;/li&gt;&lt;li&gt;&lt;b&gt;string&lt;/b&gt;&amp;nbsp;sms_gateway_login&lt;/li&gt;&lt;li&gt;&lt;b&gt;string&lt;/b&gt;&amp;nbsp;sms_gateway_password&lt;/li&gt;&lt;li&gt;&lt;b&gt;string &lt;/b&gt;sms_gateway_service_id&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="52e9ZkvR3uRLUpQS5kAT-19">
+          <mxGeometry x="5" y="30" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="52e9ZkvR3uRLUpQS5kAT-21" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="32.5" width="150" height="67.5" as="geometry" />
+        </mxCell>
+        <mxCell id="52e9ZkvR3uRLUpQS5kAT-22" value="&lt;b&gt;Main()&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="290" y="32.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="52e9ZkvR3uRLUpQS5kAT-29" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="590" y="32.5" width="160" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="52e9ZkvR3uRLUpQS5kAT-24" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="52e9ZkvR3uRLUpQS5kAT-29">
+          <mxGeometry width="160" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="52e9ZkvR3uRLUpQS5kAT-25" value="&lt;b&gt;Config.AppSettings&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="52e9ZkvR3uRLUpQS5kAT-29">
+          <mxGeometry width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="52e9ZkvR3uRLUpQS5kAT-26" value="&lt;b style=&quot;background-color: initial;&quot;&gt;DebugSMS&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="52e9ZkvR3uRLUpQS5kAT-29">
+          <mxGeometry x="44.599999999999994" y="37.5" width="70.8" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="52e9ZkvR3uRLUpQS5kAT-27" value="&lt;div style=&quot;&quot;&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;Cultura&lt;/b&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="52e9ZkvR3uRLUpQS5kAT-29">
+          <mxGeometry x="50" y="77.5" width="60" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="52e9ZkvR3uRLUpQS5kAT-28" value="&lt;div style=&quot;&quot;&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;minutosAverificar&lt;/b&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="52e9ZkvR3uRLUpQS5kAT-29">
+          <mxGeometry x="19.6" y="107.5" width="120.8" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
